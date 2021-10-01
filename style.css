@@ -36,6 +36,11 @@ body {
     background-attachment: fixed;
 }
 /*-- main --*/
+.agileinfo-row {
+    width: 65%;
+    margin:0 auto;
+	text-align:center;
+}
 
 /*-- top-nav --*/
 .agileits-main {
